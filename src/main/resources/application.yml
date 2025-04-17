@@ -1,0 +1,10 @@
+spring:
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        model: qwen2.5:1.5b
+      embedding:
+        model: qwen2.5:1.5b
+
+        
